@@ -17,6 +17,7 @@ test/tmp
 test/version_tmp
 tmp
 /vendor
+build
 
 # YARD artifacts
 .yardoc
